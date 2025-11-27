@@ -27,9 +27,11 @@ const App = () => {
         </NavigationContainer>
       {/* </GestureHandlerRootView> */}
     </AppProvider>
+
   )
 }
 
 
 export default App
+// hello
 
